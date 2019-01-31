@@ -1,0 +1,20 @@
+﻿body {
+
+}
+
+#header{
+    background-color: cadetblue;
+}
+
+#homeImg{
+    background-image:url(images/e.jpeg);
+}
+
+#homeContent{
+    background-image:url(images/4.jpeg);
+    opacity: 0.4;
+}
+
+#footer{
+    background-color: darkslategray; 
+}

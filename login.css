@@ -1,0 +1,124 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-image: url("images/2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 30vw;
+    height: 450px;
+    background-image: url('images/32744.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+h3{
+    font-size: 2.5vw;
+    margin-bottom: 13%;
+    margin-top: 6%;
+}
+
+input[type=text],input[type=password]{
+    width: 80%;
+    height: 10%;
+    margin-bottom: 3%;
+    border: 0;
+    background-color: transparent;
+    border-bottom: 1px solid #4b4040;
+}
+
+input[placeholder]{
+    font-size: 1.4vw;
+    padding-left: 3%;
+}
+
+.btn {
+    width: 40%;
+    height: 10%;
+    top: 20px;
+    margin-bottom: 9vh;
+    font-size: 1.3vw;
+    background-color: #12a312;
+    color: white;
+    border: 1px solid;
+    margin-left: 30%;
+}
+
+.container a{
+    padding: 35%;
+    font-size: large;
+    align-items: center;
+    color: blue;
+    z-index: 1;
+    left: 97px;
+    top: 103px;
+    position: absolute;
+    height: -297px;
+    width: 68px;
+}
+
+.container a:hover{
+    color: red;
+}
+
+#usernametxt{
+    margin-left: 35px;
+}
+
+#passwordtxt{
+    margin-left: 35px;
+}
+
+#logo{
+    float: left;
+    width:40px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#header{
+    float: left;
+    margin-top: 0%;
+    margin-left: 0px;
+    height: 40px;
+    width: 100%;
+    background-color: transparent;
+}
+
+.fb{
+    width: 40px;
+    height: 40px;
+    background-image: url('images/logo1.png');
+    margin-left: 67px;
+}
+
+.twitter{
+    width: 40px;
+    height: 40px;
+    background-image: url('images/logo2.png');
+    margin-left: 67px;
+}
+
+.google{
+    width: 40px;
+    height: 40px;
+    background-image: url('images/logo1.png');
+    margin-left: 67px;
+}
+
+.forgotpass{
+    width: 200px;
+    height:30px;
+}

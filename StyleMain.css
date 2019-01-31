@@ -1,0 +1,174 @@
+﻿*{
+    padding: 0;
+    margin: 0;
+}
+
+.first{
+    margin-top: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+    display: flex;
+}
+
+.header{
+    margin-top: 0;
+    margin-left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: cadetblue;
+}
+
+#Imglogo{
+    width: 45px;
+    height: 44px;
+    margin-left: 40px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#fb{
+    width: 40px;
+    height: 40px;
+    margin-left: 77%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#twitter{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#instagram{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.second{
+    width: 100vw;
+    height: 550px;
+    display: flex;
+    background-size: cover;
+    background-image: url('images/7.jpeg');
+}
+
+.homecontent{
+    margin-left: 500px;
+    margin-top: 150px;
+    height: 350px;
+    width: 40vw;
+}
+
+#btngetstarted{
+    margin-left: 90px;
+    background-color: transparent;
+}
+
+#signup{    
+    z-index: 1;
+    left: 1130px;
+    top: 65px;
+    position: absolute;
+    height: 24px;
+    width: 62px;
+}
+
+#signin{    
+    z-index: 1;
+    left: 1220px;
+    top: 65px;
+    position: absolute;
+    height: 25px;
+    width: 62px;
+}
+
+.third{
+    width: 100vw;
+    height: 550px;
+    display: flex;
+    background-size: cover;
+    background-image: url('images/4.jpeg');
+}
+
+.thirdsecdiv{
+    margin-top: 0;
+    margin-left: 0;
+    width: 100%;
+    
+}
+
+#Label2{    
+    z-index: 1;
+    left: 140px;
+    top: 680px;
+    position: absolute;
+    width: 140px;
+}
+
+#Label3{    
+    z-index: 1;
+    left: 130px;
+    top: 730px;
+    position: absolute;
+    height: 170px;
+    width: 160px;
+}
+
+#Label4{    
+    z-index: 1;
+    left: 590px;
+    top: 680px;
+    position: absolute;
+    height: 29px;
+    width: 140px;
+}
+
+#Label5{    
+    z-index: 1;
+    left: 580px;
+    top: 730px;
+    position: absolute;
+    height: 170px;
+    width: 160px;
+}
+
+#Label6{    
+    z-index: 1;
+    left: 1040px;
+    top: 680px;
+    position: absolute;
+    width: 140px;
+}
+
+#Label7{    
+    z-index: 1;
+    position: absolute;
+    left: 1030px;
+    top: 730px;
+    height: 170px;
+    width: 160px;
+}
+
+.fourth{
+    background-size: cover;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    background-color: darkseagreen;
+}
+
+#Label8{
+    height: 30px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
